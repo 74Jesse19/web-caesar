@@ -37,7 +37,7 @@ form = """
                 <input type="submit" value="Submit Query"/>
             
             
-            </form>python
+            </form>
     </body>
 </html>"""
     
